@@ -12,11 +12,10 @@ categories = [
 ]
 image = "/img/about-bg.jpg"
 description = ""
-draft = true
-date = "2016-10-18T22:25:07+02:00"
+draft = false
+date = "2016-10-18T22:57:10+02:00"
 title = "test"
 
 +++
-
 
 **Das ist ein Text**
