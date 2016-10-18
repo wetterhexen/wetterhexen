@@ -1,5 +1,5 @@
 languageCode = "de-de"
-baseurl = "http://wetterhexen.com/"
+baseurl = "http://wetterhexen.com"
 title = "Die Wetterhexen"
 theme = "startbootstrap-clean-blog"
 
@@ -8,10 +8,10 @@ theme = "startbootstrap-clean-blog"
 
 [params]
   DateForm = "Mon, Jan 2, 2006"
-  Description = "Die Wetterhexen"
+  Description = "Gelebte Volksmusik aus dem Alpenraum"
   Author = "Die Wetterhexen"
   email = "sagichnicht@example.com"
-  Ganalytics = "XX-00000000-0"
+# Ganalytics = "XX-00000000-0"
 
 #[[params.social]]
 #  title = "twitter"
