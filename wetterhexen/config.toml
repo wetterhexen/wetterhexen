@@ -1,4 +1,4 @@
-languageCode = "en-us"
-baseurl = "http://replace-this-with-your-hugo-site.com/"
-title = "My New Hugo Site"
+languageCode = "de"
+baseurl = "http://wetterhexen.com/"
+title = "Die Wetterhexen"
 theme = "startbootstrap-clean-blog"
