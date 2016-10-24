@@ -1,7 +1,8 @@
-languageCode = "de-de"
+languageCode = "de"
 baseurl = "http://wetterhexen.com"
 title = "Die Wetterhexen"
-theme = "startbootstrap-clean-blog"
+#theme = "startbootstrap-clean-blog"
+theme = "wetterhexen"
 
 [author]
   name = "Die Wetterhexen"
@@ -24,10 +25,22 @@ theme = "startbootstrap-clean-blog"
 #  url = "https://www.facebook.com/FACEBOOKHANDLE"
 
 [[menu.main]]
-  name = "home"
-  url = "/"
-  weight = -200
+  name = "Das sind wir"
+  url = "/wir/"
+  identifier = "wir"
+  weight = -4
 [[menu.main]]
-  name = "Archives"
-  url = "/post/"
-  weight = -180
+  name = "Musik"
+  url = "/musik/"
+  identifier = "musik"
+  weight = -3
+[[menu.main]]
+  name = "Termine"
+  url = "/termine/"
+  identifier = "termine"
+  weight = -2
+[[menu.main]]
+  name = "Kontakt"
+  url = "/kontakt/"
+  identifier = "kontakt"
+  weight = -1
