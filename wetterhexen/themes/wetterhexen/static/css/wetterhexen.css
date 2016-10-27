@@ -1,19 +1,19 @@
 body {
-    font-family: "Times New Roman", Georgia, Serif;
+    xfont-family: "Times New Roman", Georgia, Serif;
 }
 
 h1 {
     font-family: "Times New Roman", Georgia, Serif;
-    text-shadow: 0px 0px 6px rgba(0,0,0,0.7);
+    text-shadow: 0px 0px 6px rgba(0,0,0,0.75);
 }
 
 span.subheading {
-    font-family: "Times New Roman", Georgia, Serif;
+    xfont-family: "Times New Roman", Georgia, Serif;
 }
 
 div.page-heading {
-    font-family: "Times New Roman", Georgia, Serif;
-    text-shadow: 0px 0px 6px rgba(0,0,0,0.7);
+    xfont-family: "Times New Roman", Georgia, Serif;
+    xtext-shadow: 0px 0px 6px rgba(0,0,0,0.7);
 }
 
 div#bs-example-navbar-collapse-1 {
@@ -22,4 +22,8 @@ div#bs-example-navbar-collapse-1 {
     background-color: #000000;
     background-color: rgba(0,0,0,0.3);
     width: 100%;
+}
+
+.navbar-custom .nav li a {
+    text-transform: none;
 }
