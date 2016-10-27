@@ -5,7 +5,7 @@ description = "Gelebte Volksmusik aus dem Alpenraum"
 draft = false
 image = "/img/projects-bg.jpg"
 tags = ["termin"]
-title = "Aktuelle Termine"
+title = "Termine"
 
 +++
 
