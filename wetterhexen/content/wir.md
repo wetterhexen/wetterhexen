@@ -1,7 +1,7 @@
 +++
 #categories = ["Development", "golang"]
 date = "2016-10-24T22:10:45+01:00"
-description = ""
+description = "Gelebte Volksmusik aus dem Alpenraum"
 draft = false
 image = "/img/about-bg.jpg"
 tags = ["info"]
