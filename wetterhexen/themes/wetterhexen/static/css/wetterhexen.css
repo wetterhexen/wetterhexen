@@ -17,6 +17,7 @@ div#bs-example-navbar-collapse-1 {
     background-color: #000000;
     background-color: rgba(0,0,0,0.3);
     width: 100%;
+    padding: 0px;
 }
 
 a.navbar-brand {
@@ -27,3 +28,6 @@ a.navbar-brand {
     font-family: "Times New Roman", Georgia, Serif;
 }
 
+hr.small {
+    visibility: hidden;
+}

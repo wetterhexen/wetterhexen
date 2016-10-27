@@ -1,6 +1,6 @@
 languageCode = "de"
 baseurl = "http://wetterhexen.com"
-title = "Die Wetterhexen"
+#title = "Die Wetterhexen"
 #theme = "startbootstrap-clean-blog"
 theme = "wetterhexen"
 
@@ -9,7 +9,7 @@ theme = "wetterhexen"
 
 [params]
   DateForm = "Mon, Jan 2, 2006"
-  Description = "Gelebte Volksmusik aus dem Alpenraum"
+  #Description = "Gelebte Volksmusik aus dem Alpenraum"
   Author = "Die Wetterhexen"
   email = "diewetterhexen@gmail.com"
 # Ganalytics = "XX-00000000-0"
@@ -25,27 +25,32 @@ theme = "wetterhexen"
 #  url = "https://www.facebook.com/FACEBOOKHANDLE"
 
 [[menu.main]]
+  name = "Wetterhexen"
+  url = "/"
+  identifier = "home"
+  weight = 1
+[[menu.main]]
   name = "Das sind wir"
   url = "/wir/"
   identifier = "wir"
-  weight = 1
+  weight = 2
 [[menu.main]]
   name = "Musik"
   url = "/musik/"
   identifier = "musik"
-  weight = 2
+  weight = 3
 [[menu.main]]
   name = "Termine"
   url = "/termine/"
   identifier = "termine"
-  weight = 3
+  weight = 4
 [[menu.main]]
   name = "Projekte"
   url = "/projekte/"
   identifier = "projekte"
-  weight = 4
+  weight = 5
 [[menu.main]]
   name = "Kontakt"
   url = "/kontakt/"
   identifier = "kontakt"
-  weight = 5
+  weight = 6
