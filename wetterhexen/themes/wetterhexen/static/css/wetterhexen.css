@@ -23,7 +23,3 @@ div#bs-example-navbar-collapse-1 {
     background-color: rgba(0,0,0,0.3);
     width: 100%;
 }
-
-.navbar-custom .nav li a {
-    text-transform: none;
-}
