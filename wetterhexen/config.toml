@@ -1,6 +1,6 @@
 languageCode = "de"
 baseurl = "http://wetterhexen.com"
-#title = "Die Wetterhexen"
+title = "Die Wetterhexen"
 #theme = "startbootstrap-clean-blog"
 theme = "wetterhexen"
 
@@ -9,7 +9,7 @@ theme = "wetterhexen"
 
 [params]
   DateForm = "Mon, Jan 2, 2006"
-  #Description = "Gelebte Volksmusik aus dem Alpenraum"
+  Description = "Gelebte Volksmusik aus dem Alpenraum"
   Author = "Die Wetterhexen"
   email = "diewetterhexen@gmail.com"
 # Ganalytics = "XX-00000000-0"
