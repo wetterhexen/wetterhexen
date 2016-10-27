@@ -11,8 +11,7 @@ title = "Aktuelle Termine"
 
 Hier können Sie uns live erleben
 
-2016
-====
+## 2016
 
 14. Mai: Restaurant Sonnblick Dorf Tirol, 18.30 Uhr
 3. Juli: Buschenschank Wenzlhof, Dorf Tirol, 18.30 Uhr
@@ -21,8 +20,7 @@ Hier können Sie uns live erleben
 10. September: Kath. Arbeiterverein, Lana, 20.00 Uhr (Benefizheimatabend)
 18. September: Buschenschank Wenzlhof, Dorf Tirol, 18.30 Uhr
 
-2015
-====
+## 2015
 
 29. März: Kursaal Meran, 10.00 Uhr (Konzert der Musikkapelle Gratsch)
 7. Mai: Schloss Katzenzungen, Prissian, 18.00 Uhr
@@ -33,8 +31,7 @@ Hier können Sie uns live erleben
 13. September: Buschenschank Wenzlhof, Dorf Tirol, 18.30 Uhr
 
 
-2014
-====
+## 2014
 
 22. April: Restaurant Sonnblick, Dorf Tirol, 19.00 Uhr
 15. Juni: Buschenschank Wenzlhof, Dorf Tirol, 19.00 Uhr

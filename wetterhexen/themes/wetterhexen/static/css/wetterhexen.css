@@ -14,5 +14,7 @@ div.page-heading {
 
 div#bs-example-navbar-collapse-1 {
     font-family: "Times New Roman", Georgia, Serif;
-    text-shadow: 0px 0px 6px rgba(0,0,0,0.7);
+    xtext-shadow: 0px 0px 6px rgba(0,0,0,0.7);
+    background-color: #000000;
+    background-color: rgba(0,0,0,0.3);
 }
