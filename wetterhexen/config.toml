@@ -11,7 +11,7 @@ theme = "wetterhexen"
   DateForm = "Mon, Jan 2, 2006"
   Description = "Gelebte Volksmusik aus dem Alpenraum"
   Author = "Die Wetterhexen"
-  email = "sagichnicht@example.com"
+  email = "diewetterhexen@gmail.com"
 # Ganalytics = "XX-00000000-0"
 
 #[[params.social]]
@@ -28,19 +28,24 @@ theme = "wetterhexen"
   name = "Das sind wir"
   url = "/wir/"
   identifier = "wir"
-  weight = -4
+  weight = 1
 [[menu.main]]
   name = "Musik"
   url = "/musik/"
   identifier = "musik"
-  weight = -3
+  weight = 2
 [[menu.main]]
   name = "Termine"
   url = "/termine/"
   identifier = "termine"
-  weight = -2
+  weight = 3
+[[menu.main]]
+  name = "Projekte"
+  url = "/projekte/"
+  identifier = "projekte"
+  weight = 4
 [[menu.main]]
   name = "Kontakt"
   url = "/kontakt/"
   identifier = "kontakt"
-  weight = -1
+  weight = 5
