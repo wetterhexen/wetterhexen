@@ -2,11 +2,6 @@ body {
     xfont-family: "Times New Roman", Georgia, Serif;
 }
 
-h1 {
-    font-family: "Times New Roman", Georgia, Serif;
-    text-shadow: 0px 0px 6px rgba(0,0,0,0.75);
-}
-
 div.page-heading {
     text-shadow: 0px 0px 6px rgba(0,0,0,0.7);
 }
@@ -30,4 +25,11 @@ a.navbar-brand {
 
 hr.small {
     visibility: hidden;
+}
+
+.container-fluid {
+    padding-right: 0;
+    padding-left: 0;
+    margin-right: auto;
+    margin-left: auto;
 }

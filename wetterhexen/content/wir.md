@@ -9,8 +9,10 @@ title = "Das sind wir"
 
 +++
 
-Wir Wetterhexen sind sieben Musikerinnen aus dem Raum Meran. Unser Repertoire besteht (nicht nur) aus Volksliedern aus dem Alpenraum, die wir mit mitreißender Freude und guter Laune vortragen.
+Wir Wetterhexen sind sieben Musikerinnen aus dem Raum Meran, Südtirol.
+Unser Repertoire besteht (nicht nur) aus Volksliedern aus dem Alpenraum,
+die wir mit mitreißender Freude und guter Laune vortragen.
 
-Wir wir würden uns sehr freuen, Sie einmal bei einem unserer nächsten Auftritte im Publikum zu sehen.
-
-Die Wetterhexen
+Die Mitglieder sind Carmen Declara (musikalische Leitung),
+Christine Hübner, Susi Obkircher, Martha Pircher, Veronika Pircher,
+Irmgard Ploner, Petra Schrott (Gitarre).

@@ -9,6 +9,12 @@ title = "Kontakt"
 
 +++
 
-Haben Sie Fragen oder möchten Sie uns buchen? Zögern Sie nicht und schreiben Sie uns!
+# Impressum
 
-TODO
+[Die Wetterhexen](mailto:diewetterhexen@gmail.com)
+
+Diese Internetseite wurde mit [Hugo](https://gohugo.io) und dem
+[Start Bootstrap Clean Blog](https://github.com/humboldtux/sbcb-demo) Theme erstellt.
+Vielen Dank an Thomas Pircher für das technische Knowhow bei der Erstellung und für das Hosting dieser Seite!
+
+Alle Fotos: [Seehauserfoto](www.seehauserfoto.it)

@@ -9,6 +9,6 @@ title = "Das sind wir"
 
 +++
 
-Hier lassen wir die Musik für sich (uns) sprechen:
+Hier lassen wird die Musik für sich (und für uns) sprechen.
 
 {{< youtube mf5i-2H9c8A >}}
