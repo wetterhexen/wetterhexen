@@ -9,7 +9,7 @@ title = "Termine"
 
 +++
 
-Hier können Sie uns live erleben
+Hier kannst du uns live erleben:
 
 ## 2016
 
@@ -19,6 +19,11 @@ Hier können Sie uns live erleben
 :  14. August: Buschenschank Wenzlhof, Dorf Tirol, 18.30 Uhr
 :  10. September: Kath. Arbeiterverein, Lana, 20.00 Uhr (Benefizheimatabend)
 :  18. September: Buschenschank Wenzlhof, Dorf Tirol, 18.30 Uhr
+:  12. November: Lana (geschl. Gesellschaft)
+:  19. November: Gargazon (geschl. Gesellschaft)
+:  24. November: Kellerei Meran Burggräfler, Marling - [Kellergeflüster](/projekte) ([Reservierung](http://www.kultur.bz.it/index.php?mode=event&root=cal&evtID=67767&_lC=evt_list) erforderlich)
+:  25. November: Kellerei Meran Burggräfler, Marling - [Kellergeflüster](/projekte) ([Reservierung](http://www.kultur.bz.it/index.php?mode=event&root=cal&evtID=67767&_lC=evt_list) erforderlich)
+:  26. November: Kellerei Meran Burggräfler, Marling - [Kellergeflüster](/projekte) ([Reservierung](http://www.kultur.bz.it/index.php?mode=event&root=cal&evtID=67767&_lC=evt_list) erforderlich)
 
 ## 2015
 
@@ -38,3 +43,4 @@ Hier können Sie uns live erleben
 :  2. August: Buschenschank Wenzlhof, Dorf Tirol, 18.30 Uhr
 :  28. September: Pavillon des Fleurs, Meran, 10.00 Uhr (Weltherztag)
 :  12. Oktober: Buschenschank Wenzlhof, Dorf Tirol, 18.30 Uhr
+

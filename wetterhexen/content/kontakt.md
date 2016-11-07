@@ -9,12 +9,17 @@ title = "Kontakt"
 
 +++
 
-# Impressum
+# Kontakt
 
+Du möchtest mit uns Kontakt aufnehmen oder uns buchen? Wir freuen uns über deine Nachricht!  
 [Die Wetterhexen](mailto:diewetterhexen@gmail.com)
+
+## Impressum
 
 Diese Internetseite wurde mit [Hugo](https://gohugo.io) und dem
 [Start Bootstrap Clean Blog](https://github.com/humboldtux/sbcb-demo) Theme erstellt.
 Vielen Dank an Thomas Pircher für das technische Knowhow bei der Erstellung und für das Hosting dieser Seite!
 
-Alle Fotos: [Seehauserfoto](www.seehauserfoto.it)
+Fotos:  
+[Seehauserfoto](www.seehauserfoto.it) (Startseite, Das sind wir, Musik, Termine, Kontakt)
+Roland Strimmer (Projekte)

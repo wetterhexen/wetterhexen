@@ -24,8 +24,7 @@ Darstellerinnen geschrieben. Spritzige Dialoge, zum Thema passende Lieder und
 eine glanzvolle schauspielerische Leistung sind die Zutaten dieser gelungenen
 abendfüllenden Performance.
 
-## Zum Inhalt
-
+**Zum Inhalt**:
 Ein Weinregal, fünf Flaschen: ein Kosmos mit ungeahnten Tiefen.
 In diesem Kosmos prallen fünf grundverschiedene Welten aufeinander.
 Der Prosecco als quirliges Allroundtalent (Veronika Pircher),
