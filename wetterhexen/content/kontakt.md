@@ -18,7 +18,8 @@ Du möchtest mit uns Kontakt aufnehmen oder uns buchen? Wir freuen uns über dei
 
 Diese Internetseite wurde mit [Hugo](https://gohugo.io) und dem
 [Start Bootstrap Clean Blog](https://github.com/humboldtux/sbcb-demo) Theme erstellt.
-Vielen Dank an Thomas Pircher für das technische Knowhow bei der Erstellung und für das Hosting dieser Seite!
+Vielen Dank an [Thomas Pircher](https://tty1.net) für das technische Knowhow bei der
+Erstellung und für das Hosting dieser Seite!
 
 Fotos:  
 [Seehauserfoto](www.seehauserfoto.it) (Startseite, Das sind wir, Musik, Termine, Kontakt)
