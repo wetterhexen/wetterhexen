@@ -1,5 +1,5 @@
 languageCode = "de"
-baseurl = "http://wetterhexen.com"
+baseurl = "https://wetterhexen.com"
 title = "Die Wetterhexen"
 #theme = "startbootstrap-clean-blog"
 theme = "wetterhexen"
