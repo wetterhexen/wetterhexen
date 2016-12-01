@@ -1,7 +1,6 @@
 languageCode = "de"
-baseurl = "https://wetterhexen.com"
+baseurl = "https://www.wetterhexen.com"
 title = "Die Wetterhexen"
-#theme = "startbootstrap-clean-blog"
 theme = "wetterhexen"
 
 [author]
@@ -13,16 +12,6 @@ theme = "wetterhexen"
   Author = "Die Wetterhexen"
   email = "diewetterhexen@gmail.com"
 # Ganalytics = "XX-00000000-0"
-
-#[[params.social]]
-#  title = "twitter"
-#  url = "https://twitter.com/humboldtux"
-#[[params.social]]
-#  title = "github"
-#  url = "https://github.com/humboldtux"
-#[[params.social]]
-#  title = "facebook"
-#  url = "https://www.facebook.com/FACEBOOKHANDLE"
 
 [[menu.main]]
   name = "Wetterhexen"
